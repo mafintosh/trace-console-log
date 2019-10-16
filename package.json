@@ -1,6 +1,6 @@
 {
   "name": "trace-console-log",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Have a stray console.log but too lazy to find it?",
   "main": "index.js",
   "dependencies": {
