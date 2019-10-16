@@ -1,0 +1,20 @@
+{
+  "name": "trace-console-log",
+  "version": "0.0.0",
+  "description": "Have a stray console.log but too lazy to find it?",
+  "main": "index.js",
+  "dependencies": {
+    "what-line-is-this": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/trace-console-log.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/trace-console-log/issues"
+  },
+  "homepage": "https://github.com/mafintosh/trace-console-log"
+}
